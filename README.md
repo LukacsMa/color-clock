@@ -1,5 +1,5 @@
 # color-clock
-Realtiem clock built with JavaScript
+Realtime clock built with JavaScript
 
 ## Built Width
 - HTML
