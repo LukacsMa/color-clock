@@ -6,5 +6,5 @@ Realtime clock built with JavaScript
 - CSS
 - JavaScript
 
-## Live Verison
+## Live Version
 https://lukacsma.github.io/color-clock/
